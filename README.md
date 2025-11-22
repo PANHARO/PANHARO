@@ -1,119 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Panharo's GitHub Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      width: 80%;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #0073e6;
-    }
-    p {
-      line-height: 1.6;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    .skills, .projects, .social-links {
-      margin-bottom: 30px;
-    }
-    .projects a {
-      color: #0073e6;
-      text-decoration: none;
-    }
-    .projects a:hover {
-      text-decoration: underline;
-    }
-    .stats {
-      display: flex;
-      justify-content: space-around;
-      margin-top: 20px;
-    }
-    .stat {
-      padding: 10px;
-      background: #0073e6;
-      color: white;
-      border-radius: 5px;
-      text-align: center;
-      width: 30%;
-    }
-  </style>
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Keo Sovannpanharo</h1>
+<h3 align="center">A passionate technology enthusiast exploring full-stack development, blockchain, and more.</h3>
 
-  <div class="container">
-    <h1>Hi, I'm Panharo 👋</h1>
-    <p>Welcome to my GitHub! I’m a Computer Science student at the American University of Phnom Penh, and I’m passionate about software development, coding, and problem-solving. This is where I share my projects, experiments, and learning journey. Feel free to explore, fork, or collaborate!</p>
+- 🔭 I’m currently working on **Hyperledger Fabric**
+- 🌱 I’m currently learning **Web Full Stack, Blockchain**
+- 📫 How to reach me: **panharokeo097@gmail.com**
 
-    <h2>🚀 About Me</h2>
-    <ul>
-      <li>🎓 Currently studying <strong>Computer Science</strong> at <strong>American University of Phnom Penh</strong>.</li>
-      <li>💻 I love working with <strong>JavaScript</strong>, <strong>Python</strong>, <strong>Java</strong>, and exploring new technologies.</li>
-      <li>🔍 Always learning about <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Software Engineering</strong>.</li>
-      <li>🌱 I’m currently learning <strong>Cloud Computing</strong> and <strong>Web Development</strong>.</li>
-      <li>💬 Ask me about anything related to <strong>Coding</strong>, <strong>Software Development</strong>, or <strong>Tech</strong>.</li>
-      <li>📫 How to reach me: <a href="mailto:panharo.email@example.com">Email me</a></li>
-    </ul>
-
-    <h2>🔧 Skills & Technologies</h2>
-    <ul class="skills">
-      <li><strong>Languages:</strong> JavaScript, Python, Java, C++</li>
-      <li><strong>Frameworks & Libraries:</strong> React, Node.js, Express, Flask</li>
-      <li><strong>Tools:</strong> Git, Docker, VS Code, Figma</li>
-      <li><strong>Databases:</strong> MySQL, MongoDB</li>
-      <li><strong>Others:</strong> RESTful APIs, Data Structures & Algorithms, Agile</li>
-    </ul>
-
-    <h2>💼 Projects</h2>
-    <ul class="projects">
-      <li><a href="https://github.com/panharo/project1">Project Name 1</a> – Brief description of the project and its purpose.</li>
-      <li><a href="https://github.com/panharo/project2">Project Name 2</a> – A small app I built to practice specific skills or concepts.</li>
-      <li><a href="https://github.com/panharo/project3">Project Name 3</a> – A tool for what it does.</li>
-    </ul>
-
-    <h2>🌱 Currently Learning</h2>
-    <ul>
-      <li>Cloud Computing</li>
-      <li>Web Development (Frontend & Backend)</li>
-      <li>AI & Machine Learning</li>
-      <li>Mobile Development (React Native)</li>
-    </ul>
-
-    <h2>📈 GitHub Stats</h2>
-    <div class="stats">
-      <div class="stat">
-        <h3>Repos</h3>
-        <p>50+</p>
-      </div>
-      <div class="stat">
-        <h3>Contributions</h3>
-        <p>1000+</p>
-      </div>
-      <div class="stat">
-        <h3>Followers</h3>
-        <p>150+</p>
-      </div>
-    </div>
-
-    <h2>🤝 Let's Connect!</h2>
-    <ul class="social-links">
-      <li><a href="https://www.linkedin.com/in/panharo" target="_blank">LinkedIn</a></li>
-      <li><a href="https://panharo.com" target="_blank">Portfolio</a></li>
-    </ul>
-  </div>
-
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://hyperledger-fabric.readthedocs.io/en/release-2.2/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
+</p>
