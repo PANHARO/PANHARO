@@ -1,10 +1,10 @@
 ![ZENPAI | @PANHARO | Machine learning, apps, and robotics](assets/panharo-banner.svg)
 
-# Hey, I'm Keo Sovannpanharo 👋
+# Hey, I'm Keo Sovannpanharo
 
 I'm a university student in Cambodia. I build machine learning projects and apps around things I know firsthand, from shopping for a laptop on a student budget to remembering the restaurants I saved on TikTok.
 
-## 🟢 Building now
+## Building now
 
 ### [AI Laptop Recommender](https://github.com/PANHARO/ai_laptop_recommender)
 
@@ -16,14 +16,14 @@ An Expo app for saving food spots from TikTok and finding them again on a map. T
 
 I'm also working on route planning and simulator benchmarks for the **Kibo Robot Programming Challenge**.
 
-## ⚡ Featured projects
+## Featured projects
 
 | Project | What I built |
 | :--- | :--- |
-| ⌨️ **[TypeRush](https://github.com/PANHARO/TypeRush)** | A typing game with timed WPM tests and a survival mode where correct words earn you more time. Available as a C++/Qt desktop app and an installable web app that works offline. |
-| 🍜 **[FoodImage](https://github.com/PANHARO/FoodImage)** | A computer vision toolkit that trains and evaluates MobileNetV2 and EfficientNet-B0 on 10 Southeast Asian dishes, including Cambodia's fish amok. |
-| ◇ **[Shape Classification](https://github.com/PANHARO/shape-detection)** | An OpenCV experiment that uses contour features to compare three classifiers across 17 shape classes. |
-| 🌿 **[TRACE](https://github.com/PANHARO/ENVS)** | A browser prototype for logging meals and transport, estimating their environmental impact, and setting weekly goals. |
+| **[TypeRush](https://github.com/PANHARO/TypeRush)** | A typing game with timed WPM tests and a survival mode where correct words earn you more time. Available as a C++/Qt desktop app and an installable web app that works offline. |
+| **[FoodImage](https://github.com/PANHARO/FoodImage)** | A computer vision toolkit that trains and evaluates MobileNetV2 and EfficientNet-B0 on 10 Southeast Asian dishes, including Cambodia's fish amok. |
+| **[Shape Classification](https://github.com/PANHARO/shape-detection)** | An OpenCV experiment that uses contour features to compare three classifiers across 17 shape classes. |
+| **[TRACE](https://github.com/PANHARO/ENVS)** | A browser prototype for logging meals and transport, estimating their environmental impact, and setting weekly goals. |
 
 **Lab notebooks** · [Deep learning](https://github.com/PANHARO/AI_class) · [Machine learning](https://github.com/PANHARO/machine-learning-class)
 
