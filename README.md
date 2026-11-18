@@ -1,4 +1,4 @@
-![ZENPAI | @PANHARO | Machine learning, apps, and robotics](assets/panharo-banner.png)
+![ZENPAI | @PANHARO | Machine learning, apps, and robotics](assets/panharo-banner.svg)
 
 # Hey, I'm Keo Sovannpanharo 👋
 

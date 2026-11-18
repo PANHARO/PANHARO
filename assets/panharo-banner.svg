@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title description">
+  <title id="title">ZENPAI terminal banner</title>
+  <desc id="description">A black terminal window with white text and red accents, showing ZENPAI by PANHARO and the focus areas machine learning, apps, and robotics.</desc>
+  <defs>
+    <pattern id="terminal-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#3b282c"/>
+    </pattern>
+  </defs>
+
+  <rect x="4" y="4" width="992" height="242" rx="16" fill="#0b0b0d" stroke="#38383d" stroke-width="2"/>
+  <path d="M 20 5 H 980 A 15 15 0 0 1 995 20 V 49 H 5 V 20 A 15 15 0 0 1 20 5 Z" fill="#151518"/>
+  <path d="M 5 49 H 995" stroke="#38383d"/>
+  <circle cx="28" cy="27" r="5" fill="#ff434d"/>
+  <circle cx="45" cy="27" r="4.5" fill="none" stroke="#7e7e86"/>
+  <circle cx="62" cy="27" r="4.5" fill="none" stroke="#7e7e86"/>
+  <text x="82" y="33" fill="#d0d0d4" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19">~/panharo</text>
+
+  <g font-family="DejaVu Sans Mono, Consolas, monospace">
+    <text x="47" y="93" fill="#ff434d" font-size="23">$</text>
+    <text x="70" y="93" fill="#e1e1e5" font-size="23">whoami</text>
+    <text x="44" y="166" fill="#f9f9fa" font-size="75" font-weight="700" letter-spacing="2">ZENPAI</text>
+    <rect x="333" y="123" width="12" height="45" rx="1" fill="#ff434d"/>
+    <text x="47" y="214" fill="#d0d0d4" font-size="23">Machine learning / Apps / Robotics</text>
+  </g>
+
+  <rect x="681" y="64" width="281" height="161" fill="url(#terminal-grid)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="9">
+    <path d="M 775 117 L 739 145 L 775 173 M 864 117 L 900 145 L 864 173" stroke="#ff434d"/>
+    <path d="M 837 100 L 802 190" stroke="#f9f9fa"/>
+  </g>
+</svg>
