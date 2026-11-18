@@ -1,121 +1,34 @@
-<h1 align="center">Hi 👋, I'm Keo Sovannpanharo</h1>
-<h3 align="center">A passionate technology enthusiast exploring full-stack development, web security, and more.</h3>
+![ZENPAI | @PANHARO | Machine learning, apps, and robotics](assets/panharo-banner.png)
 
-- 🔭 I’m currently working on **Deep learning**
-- 🌱 I’m currently learning **Web Full Stack, Ethical Hacking**
-- 📫 How to reach me: **panharokeo097@gmail.com**
+# Hey, I'm Keo Sovannpanharo 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a> 
+I'm a university student in Cambodia. I build machine learning projects and apps around things I know firsthand, from shopping for a laptop on a student budget to remembering the restaurants I saved on TikTok.
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
+## 🟢 Building now
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
+### [AI Laptop Recommender](https://github.com/PANHARO/ai_laptop_recommender)
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
+Helping Cambodian university students find laptops that fit their budget and how they'll use them. I'm building a catalog of verified local offers and testing how a price baseline, spec matching, Random Forest, and a small neural network rank the options.
 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+### [BiteRadar](https://github.com/PANHARO/bite-radar)
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+An Expo app for saving food spots from TikTok and finding them again on a map. The prototype saves places on-device. The next milestone is reminding you when you're near one.
 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  </a>
+I'm also working on route planning and simulator benchmarks for the **Kibo Robot Programming Challenge**.
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
+## ⚡ Featured projects
 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg"
-    alt="kali-linux"
-    width="40"
-    height="40"
-  />
-</a>
+| Project | What I built |
+| :--- | :--- |
+| ⌨️ **[TypeRush](https://github.com/PANHARO/TypeRush)** | A typing game with timed WPM tests and a survival mode where correct words earn you more time. Available as a C++/Qt desktop app and an installable web app that works offline. |
+| 🍜 **[FoodImage](https://github.com/PANHARO/FoodImage)** | A computer vision toolkit that trains and evaluates MobileNetV2 and EfficientNet-B0 on 10 Southeast Asian dishes, including Cambodia's fish amok. |
+| ◇ **[Shape Classification](https://github.com/PANHARO/shape-detection)** | An OpenCV experiment that uses contour features to compare three classifiers across 17 shape classes. |
+| 🌿 **[TRACE](https://github.com/PANHARO/ENVS)** | A browser prototype for logging meals and transport, estimating their environmental impact, and setting weekly goals. |
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+**Lab notebooks** · [Deep learning](https://github.com/PANHARO/AI_class) · [Machine learning](https://github.com/PANHARO/machine-learning-class)
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
+## Toolbox
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
+`Python` · `PyTorch` · `scikit-learn` · `OpenCV` · `TypeScript` · `React Native / Expo` · `C++ / Qt` · `Docker`
 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-
-  <a href="https://hyperledger-fabric.readthedocs.io/en/release-2.2/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a> 
-
-  <a href="https://spring.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a> 
-
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  </a> 
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/vision/stable/index.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/pytorch/vision/main/docs/source/_static/img/pytorch-logo-dark.png" alt="torchvision" width="40" height="40"/>
-</a>
-
-<a href="https://roboflow.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/53104118?s=200&v=4" alt="roboflow" width="40" height="40"/>
-</a>
-
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
-</a>
-</p>
+[Email me](mailto:panharokeo097@gmail.com) · [Browse my repos](https://github.com/PANHARO?tab=repositories)
